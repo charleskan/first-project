@@ -5,6 +5,7 @@ const WINNING_COMBINATIONS = [
   [3, 4, 5],
   [6, 7, 8],
   [0, 3, 6],
+  // Hello
   [1, 4, 7],
   [2, 5, 8],
   [0, 4, 8],
